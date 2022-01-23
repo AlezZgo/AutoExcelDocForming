@@ -80,7 +80,7 @@ namespace AutoExcel
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show(ex.Message + "\n Вероятно нарушена структура каталогов, обратитесь к оператору ТА");
+                    MessageBox.Show(ex.Message + "\n Вероятно нарушена структура каталогов, обратитесь к главному программисту");
                 }
             }
 
